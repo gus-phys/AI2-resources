@@ -2,3 +2,5 @@
 02-programacao-python/aula1/exercicios/Jupyter-Notebook_Markdown
 02-programacao-python/aula1/exercicios/resident-profiles
 02-programacao-python/aula2/exercicios/python-warmup
+
+*.ipynb_checkpoints
