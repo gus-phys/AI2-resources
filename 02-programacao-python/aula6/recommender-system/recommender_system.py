@@ -20,16 +20,16 @@ class Usuario:
         filme.adicionar_avaliacao(avaliacao)
         # filme.avaliacoes.append(avaliacao)
         # filme.avaliacoes[usuario.id_usuario] = avaliacao
-    
+
     def as_numpy_array(self, tamanho):
         vetor_usuario = np.zeros(tamanho)
         for avaliacao in self.avaliacoes:
             vetor_usuario[int(avaliacao.filme.id_filme)-1] = int(avaliacao.nota)
 
         return vetor_usuario
-    
+
     def similaridade(self, outro_usuario,tamanho, algoritmo_de_similaridade):
-        return algoritmo_de_similaridade.calcula(self.as_numpy_array(tamanho), 
+        return algoritmo_de_similaridade.calcula(self.as_numpy_array(tamanho),
                                          outro_usuario.as_numpy_array(tamanho))
 
 
@@ -49,7 +49,7 @@ class Genero:
     def __init__(self, id_genero, nome):
         self.id_genero = id_genero
         self.nome = nome
-        
+
 
 class Avaliacao:
     def __init__(self, usuario, filme, nota):
@@ -77,7 +77,7 @@ class SistemaDeRecomendacao:
                 usuario = Usuario(campos[0], campos[1], campos[2], campos[3],
                                   campos[4])
                 #self.usuarios.append(usuario)
-                self.usuarios[usuario.id_usuario] = usuario 
+                self.usuarios[usuario.id_usuario] = usuario
         except Exception as e:
             print(e)
             sys.exit(1)
@@ -107,7 +107,7 @@ class SistemaDeRecomendacao:
                     if campos_generos[i] == "1":
                         generos.append(self.generos[str(i)])
 
-                filme = Filme(campos[0], campos[1], campos[2], campos[4], 
+                filme = Filme(campos[0], campos[1], campos[2], campos[4],
                               generos)
                 self.filmes[filme.id_filme] = filme
 
@@ -132,5 +132,4 @@ class SistemaDeRecomendacao:
 
 
 sr = SistemaDeRecomendacao()
-sr.carregar_do_diretorio("/home/rmcobe/movielens-100k/ml-100k")
-
+sr.carregar_do_diretorio("./dataset")
