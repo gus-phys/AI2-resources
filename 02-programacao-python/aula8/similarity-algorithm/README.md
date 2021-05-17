@@ -1,7 +1,7 @@
 # Exercícios
 
 
-### Projeto de Classes 
+### Projeto de Classes
 
 Para esse conjunto de exercícios vamos utilizar o conjunto de dados
 disponibilizado no dataset [MovieLens
@@ -10,14 +10,13 @@ disponibilizado no dataset [MovieLens
 
 O conjunto de dados do MovieLens foi coletados pelo GroupLens Research Project
 na Universidade de Minnesota.
- 
+
 Este conjunto de dados consiste em:
 * 100.000 classificações (1-5) de 943 usuários em 1.682 filmes.
 * Cada usuário classificou pelo menos 20 filmes.
 
 
-Continuando o que foi feito em sala (disponível no diretório
-[source](../../src/aula8)), pede-se que sejam criadas as classes:
+Continuando o que foi feito em sala, pede-se que sejam criadas as classes:
 
 * `AlgoritmoSimilaridade`: classe abstrata que possui um método (abstrato):
   `calcula()`. Esse método recebe dois arrays **Numpy**;
@@ -57,5 +56,3 @@ def similaridade(self, outro_elemento, tamanho, algoritmo_similaridade):
 
 * A classe `SistemaDeRecomendacao` possui dois métodos que ajudam na
   recuperação de um usuário ou filme, dado seu identificador;
-
-
