@@ -15,3 +15,4 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 * Aula 05 - [abstract-classes-project](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula5/abstract-classes)
 * Aula 06 - [recommender-system](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula6/recommender-system)
 * Aula 08 - [similarity-algorithm](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula8/similarity-algorithm)
+* Aula 09 - [ml-100k-analysis](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula9/ml-100k-analysis)
