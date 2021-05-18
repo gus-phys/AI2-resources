@@ -131,7 +131,7 @@ class SistemaDeRecomendacao:
             sys.exit(1)
 
 class AlgoritmoSimilaridade(ABC):
-    @abstractcmethod
+    @classmethod
     def calcula(self, item1, item2):
         pass
 
@@ -195,5 +195,4 @@ class SimilaridadePearson(AlgoritmoSimilaridade):
         return cls.pearson_def(item1, item2)
 
 sr = SistemaDeRecomendacao()
-sr.carregar_do_diretorio("~/Residencia_em_IA/Atividades/AI2/\
-                         02-programacao-python/dataset")
+sr.carregar_do_diretorio("../../dataset/ml-100k")
