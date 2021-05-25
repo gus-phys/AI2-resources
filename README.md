@@ -16,3 +16,7 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 * Aula 08 - Implement of a similarity algorithm (co-sine and Pearson) for 'MovieLens 100k' ([similarity-algorithm](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula8/similarity-algorithm))
 * Aula 09 - Analysis of 'MovieLens 100k' with numpy ([ml-100k-np](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula9/ml-100k-np))
 * Aula 10 - Analysis of 'MovieLens 100k' with pandas ([ml-100k-pd](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula10/ml-100k-pd))
+
+## 03 Introduction to satistics
+
+* Aula 01 - Statictic data of dangerous objects near Earth based on NASA [NeoWs](https://api.nasa.gov/) API ([NeoWs-dangerous-objects](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/03-introducao-a-estatistica/aula1/NeoWs))
