@@ -1,4 +1,4 @@
-# Exercises resolution
+# Problems solved
 
 ## 01 Setting up the environment
 
