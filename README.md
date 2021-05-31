@@ -20,3 +20,7 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 ## 03 Introduction to satistics
 
 * Aula 01 - Statictic data of dangerous objects near Earth based on NASA [NeoWs](https://api.nasa.gov/) API ([NeoWs-dangerous-objects](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/03-introducao-a-estatistica/aula1/NeoWs))
+
+## 04 Databse
+
+* Aula 01 - ([sql-warmup](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/04-banco-de-dados/aula1/sql-warmup))
