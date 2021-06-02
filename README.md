@@ -23,4 +23,4 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 
 ## 04 Databse
 
-* Aula 01 - ([sql-warmup](https://github.com/gus-phys/AI2-resourses/tree/sql-warmup/04-banco-de-dados/aula1/sql-warmup))
+* Aula 01 - Creation of different kinds of queries ([sql-warmup](https://github.com/gus-phys/AI2-resourses/tree/sql-warmup/04-banco-de-dados/aula1/sql-warmup))
