@@ -34,4 +34,3 @@ Em seguida implemente as seguintes visualizações:
   e a cor do ponto seja a classificação entre **perigoso** e **não perigoso**.
 * Gráfico de dispersão entre variáveis:
   * X: tamanho do asteróide e Y: distância mínima de encontro;
-  *
