@@ -17,10 +17,14 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 * Aula 09 - Analysis of 'MovieLens 100k' with numpy ([ml-100k-np](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula9/ml-100k-np))
 * Aula 10 - Analysis of 'MovieLens 100k' with pandas ([ml-100k-pd](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula10/ml-100k-pd))
 
-## 03 Introduction to satistics
+## 03 Introduction to statistics
 
 * Aula 01 - Statictic data of dangerous objects near Earth based on NASA [NeoWs](https://api.nasa.gov/) API ([NeoWs-dangerous-objects](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/03-introducao-a-estatistica/aula1/NeoWs))
 
-## 04 Databse
+## 04 Database
 
 * Aula 01 - Creation of different kinds of queries ([sql-warmup](https://github.com/gus-phys/AI2-resourses/tree/main/04-banco-de-dados/aula1/sql-warmup))
+
+## 05 Data exploration
+
+* Aula 01 - Data exploration of NASA [NeoWs](https://api.nasa.gov/) API ([matplotlib-NeoWs](https://github.com/gus-phys/AI2-resourses/tree/matplotlib-NASA/05-exploracao-de-dados/aula1/matplotlib-NeoWs))
