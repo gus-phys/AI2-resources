@@ -36,5 +36,4 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 ## 07 Regression in Machine Learning
 
 * Lecture 01 - Regression analysis in Machine Learning ([regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula1/regression))
-
 * Lecture 02 - Multivariate Linear Regression ([mlr](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula2/multivariative-linear-regression))
