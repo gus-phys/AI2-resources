@@ -37,3 +37,5 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 
 * Lecture 01 - Regression analysis in Machine Learning ([regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula1/regression))
 * Lecture 02 - Multivariate Linear Regression ([mlr](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula2/multivariative-linear-regression))
+* Lecture 03 - KNN and Trees regression ([KNN-and-trees-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula3/KNN-and-trees-regression))
+* Lecture 03 - Polynomial Regression ([Polynomial-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula3/Polynomial-regression))
