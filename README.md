@@ -39,5 +39,5 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 * Lecture 02 - Multivariate Linear Regression ([mlr](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula2/multivariative-linear-regression))
 * Lecture 03 - Polynomial Regression ([Polynomial-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula3/Polynomial-regression))
 * Lecture 03 - KNN and Trees regression ([KNN-and-trees-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula3/KNN-and-trees-regression))
-* Lecture 05 - Hypothesis test on the ([BRICS](https://www.kaggle.com/docstein/brics-world-bank-indicators)) dataset ([hypothesis-test](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula5/hypothesis-test)).
+* Lecture 05 - Hypothesis test on the [BRICS](https://www.kaggle.com/docstein/brics-world-bank-indicators) dataset ([hypothesis-test](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula5/hypothesis-test)).
 Collaboration with Ana Luisa Schmidt and Ananda Heino.
