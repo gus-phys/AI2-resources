@@ -41,3 +41,7 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 * Lecture 03 - KNN and Trees regression ([KNN-and-trees-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula3/KNN-and-trees-regression))
 * Lecture 05 - Hypothesis test on the [BRICS](https://www.kaggle.com/docstein/brics-world-bank-indicators) dataset ([hypothesis-test](https://github.com/gus-phys/BRICS-hypothesis-test)).
 Collaboration with Ana Luisa Schmidt and Ananda Heino.
+
+### Pratical classes
+
+* Lecture 01 - Linear Regression applications to Advertising data [advertising-linear-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aulas-praticas/aula1/linear-regression)
