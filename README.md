@@ -44,10 +44,11 @@ Collaboration with Ana Luisa Schmidt and Ananda Heino.
 
 ### Pratical classes
 
-* Lecture 01 - Linear Regression applications to Advertising data ([advertising-linear-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aulas-praticas/aula1/linear-regression))
+* Lecture 01 - Linear Regression applications to Advertising data ([advertising-linear-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aulas-praticas/aula1/linear-regression))Iintegrada
 
 ## 08 Classification
 
 ### Pratical classes
 
 * Lecture 01 - MNIST classification using Logistic Regression ([MNIST-logistic-regression](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula1/regressao-logistica))
+* Lecture 02 - Perceptron as a decision model ([perceptron-model](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula2/perceptron-model))
