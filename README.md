@@ -9,7 +9,7 @@ Collaboration with [Matheus Novaes](https://github.com/matheuspnovaes/lista-4)
 
 * Lecture 01 - Analysis of 'MovieLens 100k' with only python default libraries ([python-warmup](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula1/python-warmup))
 * Lecture 02 - Implement co-sine correlation and Pearson correlation coefficient to MovieLens 100k analysis ([python-warmup-with-distances](https://github.com/gus-phys/python-warmup-with-distances)).  
-Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](https://github.com/lucas-coutinho/python-warmup)
+Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt), [Giovane Sylvestrin](https://github.com/giovane-sylvestrin) and [Lucas Coutinho](https://github.com/lucas-coutinho/python-warmup)
 * Lecture 04 - Object oriented programming aply to geometric forms properties ([classes-project](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula4/classes-project))
 * Lecture 05 - Aply the abstract class method to classes-project ([abstract-classes-project](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula5/abstract-classes))
 * Lecture 06 - Implement a recommender system based on UML ([recommender-system](https://github.com/gus-phys/ai2-exercises-resolution/tree/main/02-programacao-python/aula6/recommender-system))
@@ -40,11 +40,11 @@ Collaboration with Ana Luisa Schmidt, Giovane Sylvestrin and [Lucas Coutinho](ht
 * Lecture 03 - Polynomial Regression ([Polynomial-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula3/Polynomial-regression))
 * Lecture 03 - KNN and Trees regression ([KNN-and-trees-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aula3/KNN-and-trees-regression))
 * Lecture 05 - Hypothesis test on the [BRICS](https://www.kaggle.com/docstein/brics-world-bank-indicators) dataset ([hypothesis-test](https://github.com/gus-phys/BRICS-hypothesis-test)).
-Collaboration with Ana Luisa Schmidt and Ananda Heino.
+Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [Ananda Heino](https://github.com/anandaheino).
 
 ### Pratical classes
 
-* Lecture 01 - Linear Regression applications to Advertising data ([advertising-linear-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aulas-praticas/aula1/linear-regression))Iintegrada
+* Lecture 01 - Linear Regression applications to Advertising data ([advertising-linear-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aulas-praticas/aula1/linear-regression))
 
 ## 08 Classification
 
