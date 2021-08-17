@@ -52,4 +52,5 @@ Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [
 
 * Lecture 01 - MNIST classification using Logistic Regression ([MNIST-logistic-regression](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula1/regressao-logistica))
 * Lecture 02 - Perceptron as a decision model ([perceptron-model](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula2/perceptron-model))
-* Lecture 03 - Using tensor (Pytorch) to MNIST analysis ([MNIST-tensor](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula3/pytorch))
+* Lecture 03 - Using tensor (Pytorch) for MNIST analysis ([MNIST-tensor](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula3/pytorch))
+* Lecture 04 - Exploring multi layer Perceptron (MLP) network ([MLP-exploration](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula4/mlp-exploration))
