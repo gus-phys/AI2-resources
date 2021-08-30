@@ -42,13 +42,13 @@ Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt), [Gio
 * Lecture 05 - Hypothesis test on the [BRICS](https://www.kaggle.com/docstein/brics-world-bank-indicators) dataset ([hypothesis-test](https://github.com/gus-phys/BRICS-hypothesis-test)).
 Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [Ananda Heino](https://github.com/anandaheino).
 
-### Pratical classes
+### 'Hands-on' classes
 
 * Lecture 01 - Linear Regression applications to Advertising data ([advertising-linear-regression](https://github.com/gus-phys/AI2-resourses/tree/main/07-ml-regressao/aulas-praticas/aula1/linear-regression))
 
 ## 08 Classification
 
-### Pratical classes
+### 'Hands-on' classes
 
 * Lecture 01 - MNIST classification using Logistic Regression ([MNIST-logistic-regression](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula1/regressao-logistica))
 * Lecture 02 - Perceptron as a decision model ([perceptron-model](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula2/perceptron-model))
