@@ -55,5 +55,5 @@ Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [
 * Lecture 03 - Using tensor (PyTorch) for MNIST analysis ([MNIST-tensor](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula3/pytorch))
 * Lecture 04 - Exploring MNIST using PyTorch to train a Multilayer Perceptron (MLP) Neural Network ([MLP-exploration](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula4/mlp-exploration))
 * Lecture 06 - Using Support Vector Machines (SVMs) as a datasets classifier ([SVM-classifier](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula6/svm))
-* Lecture 07 - Supervised and Unsupervised OPF ([opf-classifier](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula7/opf))
-* Lecture 08 - Optimizing KNN ([knn-optimization](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula8/knn-optimization))
+* Lecture 08 - Supervised and Unsupervised OPF ([opf-classifier](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula8/opf))
+* Lecture 09 - Optimizing KNN ([knn-optimization](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula9/knn-optimization))
