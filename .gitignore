@@ -13,3 +13,6 @@ Untitled.ipynb
 .ipynb_checkpoints
 __pycache__
 test*
+
+# OPF log:
+opf*.log
