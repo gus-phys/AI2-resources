@@ -15,4 +15,4 @@ __pycache__
 test*
 
 # OPF log:
-opf*.log
+opf*.log*
