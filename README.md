@@ -58,3 +58,9 @@ Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [
 * Lecture 07 - Applying Cross Validations methods ([svm-CrossValidation](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula7/svm-CrossValidation))
 * Lecture 08 - Supervised and Unsupervised OPF ([opf-classifier](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula8/opf))
 * Lecture 09 - Optimizing KNN ([knn-optimization](https://github.com/gus-phys/AI2-resourses/tree/main/08-classificacao/aulas-praticas/aula9/knn-optimization))
+
+## 10 Dimensionality reduction
+
+### 'Hands-on' classes
+
+* Lecture 02 - Compare PCA and LDA([pca_lda](https://github.com/gus-phys/AI2-resourses/tree/main/10-reducao-dimensionalidade/aulas-praticas/aula2/pca_lda))
