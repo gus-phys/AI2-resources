@@ -63,5 +63,5 @@ Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [
 
 ### 'Hands-on' classes
 
-* Lecture 02 - Compare PCA and LDA ([pca_lda](https://github.com/gus-phys/AI2-resourses/tree/main/10-reducao-dimensionalidade/aulas-praticas/aula2/pca_lda))
-* Lecture 03 - Compare KPCA, PCA and LDA ([kernel_pca](https://github.com/gus-phys/AI2-resourses/tree/main/10-reducao-dimensionalidade/aulas-praticas/aula3/kernel_pca))
+* Lecture 02 - Comparing PCA and LDA ([pca_lda](https://github.com/gus-phys/AI2-resourses/tree/main/10-reducao-dimensionalidade/aulas-praticas/aula2/pca_lda))
+* Lecture 03 - Comparing KPCA, PCA and LDA ([kernel_pca](https://github.com/gus-phys/AI2-resourses/tree/main/10-reducao-dimensionalidade/aulas-praticas/aula3/kernel_pca))
