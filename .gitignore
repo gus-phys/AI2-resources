@@ -17,5 +17,9 @@ test*
 # OPF log:
 opf*.log*
 
+<<<<<<< HEAD
 # Models files:
+=======
+# Model files:
+>>>>>>> 0f8a444bc38ba1d6093c1ace8c05b0571620e3f4
 *.pt
