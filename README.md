@@ -67,3 +67,9 @@ Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [
 * Lecture 03 - Comparing KPCA, PCA and LDA ([kernel_pca](https://github.com/gus-phys/AI2-resourses/tree/main/10-reducao-dimensionalidade/aulas-praticas/aula3/kernel_pca))
 * Lecture 05 - Comparing Isomap with KFDA ([isomap](https://github.com/gus-phys/AI2-resourses/tree/main/10-reducao-dimensionalidade/aulas-praticas/aula5/isomap))
 * Lecture 06 - Comparing LLE with Isomap ([lle](https://github.com/gus-phys/AI2-resourses/tree/main/10-reducao-dimensionalidade/aulas-praticas/aula6/lle))
+
+## 11 Neural Network introduction
+
+### 'Hands-on' classes
+
+* Lecture 02 - Usin CNN as image classifier ([cnn](https://github.com/gus-phys/AI2-resourses/tree/main/11-intro-redes-neurais/aulas_praticas/aula2/cnn))

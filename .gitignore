@@ -16,3 +16,6 @@ test*
 
 # OPF log:
 opf*.log*
+
+# Models files:
+*.pt
