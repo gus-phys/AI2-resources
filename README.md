@@ -72,4 +72,5 @@ Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [
 
 ### 'Hands-on' classes
 
-* Lecture 02 - Usin CNN as image classifier ([cnn](https://github.com/gus-phys/AI2-resourses/tree/main/11-intro-redes-neurais/aulas_praticas/aula2/cnn))
+* Lecture 02 - Using CNN as image classifier ([cnn](https://github.com/gus-phys/AI2-resourses/tree/main/11-intro-redes-neurais/aulas_praticas/aula2/cnn))
+* Lecture 03 - Implementing GCN with stellagraph package ([gcn](https://github.com/gus-phys/AI2-resourses/tree/main/11-intro-redes-neurais/aulas_praticas/aula3/gcn))
