@@ -14,12 +14,11 @@ Untitled.ipynb
 __pycache__
 test*
 
-# OPF log:
+# OPF log
 opf*.log*
 
-<<<<<<< HEAD
-# Models files:
-=======
-# Model files:
->>>>>>> 0f8a444bc38ba1d6093c1ace8c05b0571620e3f4
+# Model files
 *.pt
+
+# data
+git_web_ml*
