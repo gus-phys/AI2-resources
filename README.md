@@ -74,3 +74,7 @@ Collaboration with [Ana Luisa Schmidt](https://github.com/analuisaschmidt) and [
 
 * Lecture 02 - Using CNN as image classifier ([cnn](https://github.com/gus-phys/AI2-resourses/tree/main/11-intro-redes-neurais/aulas_praticas/aula2/cnn))
 * Lecture 03 - Implementing GCN with stellagraph package ([gcn](https://github.com/gus-phys/AI2-resourses/tree/main/11-intro-redes-neurais/aulas_praticas/aula3/gcn))
+
+## 12 PySpark
+
+* Lecture 02 - Some DataFrame features on PySpark ([df_spark](https://github.com/gus-phys/AI2-resourses/tree/main/12-spark/aula2/dataframe_with_pyspark))
